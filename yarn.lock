@@ -5556,6 +5556,11 @@ react-lifecycles-compat@2.0.0:
   resolved "https://registry.yarnpkg.com/react-lifecycles-compat/-/react-lifecycles-compat-2.0.0.tgz#71d9c4cde47114c4102454f76da055c2bc48c948"
   integrity sha512-txfpPCQYiazVdcbMRhatqWKcAxJweUu2wDXvts5/7Wyp6+Y9cHojqXHsLPEckzutfHlxZhG8Oiundbmp8Fd6eQ==
 
+react-native-health-connect@^2.0.2:
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/react-native-health-connect/-/react-native-health-connect-2.0.2.tgz#4ebbd0ca0b5f184ef4cd06bd0d198e9191739af2"
+  integrity sha512-iZRCL/wfl5U+9XwCfyQO7tUABSh62VE10cCgxgtEmuvuLz8FJmlqT4zzPOCflSTwz6tcVmpQYR5F1YC5pEZEAA==
+
 react-native-navigation@^7.39.2:
   version "7.39.2"
   resolved "https://registry.yarnpkg.com/react-native-navigation/-/react-native-navigation-7.39.2.tgz#bab931e330aa1e5edd9d6fb719397b4de063a733"

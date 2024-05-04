@@ -12,6 +12,7 @@
   "dependencies": {
     "react": "18.2.0",
     "react-native": "0.73.8",
+    "react-native-health-connect": "^2.0.2",
     "react-native-navigation": "^7.39.2"
   },
   "devDependencies": {
